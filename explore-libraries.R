@@ -1,7 +1,7 @@
-#'---
-#'title: "Explore-libraries"
-#'output: github_document
-#'---
+#' ---
+#' title: "Explore-libraries"
+#' output: github_document
+#' ---
 
 #' Which libraries does R search for packages?
 library(tidyverse)
