@@ -1,8 +1,6 @@
 #' ---
 #' title: "Explore-libraries"
-#' output: 
-#'    html_document:
-#'    keep_md = TRUE
+#' output: github_document
 #' ---
 
 #' Which libraries does R search for packages?
