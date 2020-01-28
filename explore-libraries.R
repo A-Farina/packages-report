@@ -1,3 +1,10 @@
+#' ---
+#' title: "Explore-libraries"
+#' output:
+      html_document:
+        keep_md: yes
+#' ---
+
 #' Which libraries does R search for packages?
 library(tidyverse)
 # try .libPaths(), .Library
