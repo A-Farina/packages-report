@@ -64,3 +64,5 @@ dat %>% count(.$Built)
 
 
 ## use `fields` argument to installed.packages() to get more info and use it!
+
+devtools::session_info()
